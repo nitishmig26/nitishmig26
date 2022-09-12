@@ -1,5 +1,5 @@
 
-![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
+![MasterHead](https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e4751t37jqocihj56mqazmca144b824u439blt9rp2e&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm NITISH KUMAR MIGLANI</h1>
 <h3 align="center">COMPILING TECH ENGINEER</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
