@@ -1,6 +1,6 @@
 ![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-b1b0a9bd6f.gif)
-<h1 align="center">Hi 👋, I'm NITISH KUMAR MIGLANI</h1>
-<h3 align="center">COMPILING TECH ENGINEER</h3>
+<h1 ">Hi 👋, I'm NITISH KUMAR MIGLANI</h1>
+<h3 >COMPILING TECH ENGINEER</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 👨‍💻Check out [https://nitishmig26.github.io/Portfolio/](https://nitishmig26.github.io/Portfolio/)
