@@ -1,4 +1,4 @@
-  ![MasterHead](https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e4751t37jqocihj56mqazmca144b824u439blt9rp2e&rid=giphy.gif&ct=g)
+![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-b1b0a9bd6f.gif)
 <h1 align="center">Hi 👋, I'm NITISH KUMAR MIGLANI</h1>
 <h3 align="center">COMPILING TECH ENGINEER</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
