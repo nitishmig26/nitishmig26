@@ -1,4 +1,4 @@
-![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-b1b0a9bd6f.gif)
+![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
 <h1 ">Hi 👋, I'm NITISH KUMAR MIGLANI</h1>
 <h3 >COMPILING TECH ENGINEER</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
