@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQHm5mOMU2Tz4g/profile-displaybackgroundimage-shrink_350_1400/0/1651475892215?e=1668643200&v=beta&t=bRacRGM4MO6r23hiA7Rusm0JLeDS_uYaF9ZvV3i3vNw)
+
 <h1 ">Hi 👋, I'm NITISH KUMAR MIGLANI</h1>
 <h3 >COMPILING TECH ENGINEER</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
